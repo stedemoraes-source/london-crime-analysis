@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="imagens/Pag1-Visão_geral.png" width="900">
+  <img src="imagens/Pag1-Visao_geral.png" width="900">
 </p>
 
 ---
