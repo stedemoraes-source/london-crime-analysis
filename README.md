@@ -91,6 +91,8 @@ O desenvolvimento do projeto foi realizado seguindo um fluxo completo de anális
 ### Página 4 — Insights
 
 ![Insights](imagens/Pag4-Insights.png)
+
+
 O dashboard foi estruturado em páginas para facilitar a análise dos indicadores.
 
 Entre as principais visualizações estão:
