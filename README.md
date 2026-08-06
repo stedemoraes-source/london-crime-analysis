@@ -10,7 +10,7 @@
 
 ---
 
-## 📈 Os indicadores analisados
+## 📈 Os indicadores
 
 - Total de crimes registrados
 - Evolução anual dos crimes
