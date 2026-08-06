@@ -1,9 +1,13 @@
 # 🚔 London Crime Analysis
+
 ---
+
 <p align="center">
   <img src="imagens/Pag1-Visão_geral.png" width="900">
 </p>
+
 ---
+
 ## 📌 Sobre o projeto
 
 Este projeto apresenta uma análise exploratória dos dados de criminalidade em Londres por meio de um dashboard desenvolvido no **Google Looker Studio**.
