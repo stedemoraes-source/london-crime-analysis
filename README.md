@@ -8,6 +8,17 @@
 
 ---
 
+## 📈 Indicadores analisados
+
+- Total de crimes registrados
+- Evolução anual dos crimes
+- Crimes por Borough
+- Crimes por categoria
+- Comparação entre regiões
+- Tendência temporal
+
+---
+
 ## 📌 Sobre o projeto
 
 Este projeto apresenta uma análise exploratória dos dados de criminalidade em Londres por meio de um dashboard desenvolvido no **Google Looker Studio**.
@@ -73,9 +84,16 @@ LICENSE
 
 ---
 
-## 📷 Prévia do dashboard
+## 🚀 Aprendizados
 
-As imagens do dashboard estão disponíveis na pasta **imagens/** deste repositório.
+Durante este projeto foi possível aprofundar conhecimentos em:
+
+- Limpeza e organização de dados;
+- Construção de indicadores (KPIs);
+- Storytelling com dados;
+- Desenvolvimento de dashboards no Google Looker Studio;
+- Boas práticas de visualização;
+- Análise exploratória para suporte à tomada de decisão.
 
 ---
 
