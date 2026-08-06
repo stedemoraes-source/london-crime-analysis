@@ -1,5 +1,7 @@
 # 🚔 London Crime Analysis
 
+### Dashboard de análise da criminalidade em Londres desenvolvido com Google Cloud Platform, BigQuery, Python e Power BI.
+
 ---
 
 <p align="center">
@@ -21,9 +23,9 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto apresenta uma análise exploratória dos dados de criminalidade em Londres por meio de um dashboard desenvolvido no **Google Looker Studio**.
+Este projeto apresenta uma análise exploratória dos dados de criminalidade em Londres por meio de um dashboard desenvolvido no **Power BI**.
 
-O objetivo foi transformar dados públicos em informações visuais e estratégicas, permitindo identificar padrões, tendências e indicadores relevantes para apoiar a tomada de decisão.
+O objetivo foi transformar dados públicos em informações estratégicas, utilizando técnicas de ETL, análise exploratória e Business Intelligence.
 
 O dashboard foi construído com foco em clareza, usabilidade e storytelling com dados, reunindo métricas e visualizações que facilitam a compreensão do cenário da criminalidade na cidade.
 
@@ -41,15 +43,54 @@ O dashboard foi construído com foco em clareza, usabilidade e storytelling com 
 
 ## 🛠️ Ferramentas utilizadas
 
-* Google Looker Studio
-* Google Sheets
-* SQL (tratamento e preparação dos dados)
-* Git e GitHub
+- Google Cloud Platform (GCP)
+- Google BigQuery
+- SQL
+- Python
+- Pandas
+- Visual Studio Code
+- Microsoft Power BI
+- Git
+- GitHub
+
+---
+
+## 🔄 Metodologia
+
+O desenvolvimento do projeto foi realizado seguindo um fluxo completo de análise de dados:
+
+1. Extração dos dados no Google BigQuery.
+2. Consultas SQL para exploração e seleção das informações.
+3. Tratamento, limpeza e padronização dos dados utilizando Python no Visual Studio Code.
+4. Construção da base analítica e validação dos dados antes da etapa de visualização.
+5. Desenvolvimento do dashboard com indicadores, filtros e visualizações interativas.
+6. Documentação e versionamento do projeto utilizando Git e GitHub.
 
 ---
 
 ## 📊 Dashboard
 
+### Página 1 — Visão Geral
+
+![Visão Geral](imagens/Pag1-Visao_geral.png)
+
+---
+
+### Página 2 — Evolução Temporal
+
+![Evolução](imagens/Pag2-Evolucao_temporal.png)
+
+---
+
+### Página 3 — Análise Territorial
+
+![Territorial](imagens/Pag3-Analise_Territorial.png)
+
+---
+
+### Página 4 — Insights
+
+![Insights](imagens/Pag4-Insights.png)
 O dashboard foi estruturado em páginas para facilitar a análise dos indicadores.
 
 Entre as principais visualizações estão:
@@ -70,7 +111,6 @@ dashboard/
 dados/
 imagens/
 README.md
-LICENSE
 ```
 
 ---
@@ -84,14 +124,28 @@ LICENSE
 
 ---
 
+## 💼 Competências demonstradas
+
+- Extração de dados em ambiente Cloud (Google Cloud Platform)
+- Consultas SQL no BigQuery
+- Limpeza e transformação de dados com Python
+- Construção de base analítica
+- Modelagem para Business Intelligence
+- Desenvolvimento de dashboards no Microsoft Power BI
+- Storytelling com dados
+- Versionamento de projetos com Git e GitHub
+
+---
+
 ## 🚀 Aprendizados
 
 Durante este projeto foi possível aprofundar conhecimentos em:
 
-- Limpeza e organização de dados;
+- Coleta de banco de dados no Google Cloud;
+- Limpeza e organização de dados no VS Code com Python e SQL;
 - Construção de indicadores (KPIs);
 - Storytelling com dados;
-- Desenvolvimento de dashboards no Google Looker Studio;
+- Desenvolvimento de dashboards no Power BI;
 - Boas práticas de visualização;
 - Análise exploratória para suporte à tomada de decisão.
 
@@ -103,7 +157,7 @@ Sou Stéphanie Rosa, profissional em transição de carreira para a área de Dad
 
 Tenho desenvolvido projetos voltados para análise de dados, Business Intelligence e visualização de informações utilizando Python, SQL, Power BI, Google Looker Studio e Excel.
 
-Estou construindo um portfólio com projetos práticos para aplicar conceitos de análise de dados, ETL, dashboards e storytelling.
+Este projeto faz parte do meu portfólio de Análise de Dados, desenvolvido para demonstrar competências em extração, tratamento, análise e visualização de dados utilizando tecnologias amplamente empregadas no mercado.
 
 ---
 
